@@ -1,0 +1,22 @@
+"bin": {
+    "your-command-here": "./index.js"
+  },
+  {
+    "name": "Qya Ahmad",
+    "website": "https://rahmad239.github.io/",
+    "linkedin": "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile",
+    "github": "rahmad239",
+    "email": "qya.ahmad239@gmail.com",
+    "proficient-technologies": [
+        "html", 
+        "css", 
+        "javascript", 
+    ],
+    "other-skills": [
+        "management",
+        "training and development"
+        "marketing"
+        "sales"
+        "operations"
+    ]
+}
